@@ -1,0 +1,1 @@
+NO<sub>3</sub><sup>-1<sup>
