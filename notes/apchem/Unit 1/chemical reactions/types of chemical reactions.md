@@ -2,11 +2,9 @@
 	-  double replacement
 2. acid/base
 	- acid/base (neutralization)
-3. oxidation
-	- reduction (redox)
-	- oxidation #'s (states)
-	- single replacment 
-		- all single replacment reaction are oxidation but not all oxidation reactions are single replacment. 
+		- when a reaction between an acid an base is referred to as a neutralization reaction
+			- always produces water and a [[salt]].
+3. [[oxidation reduction reactions]]
 4. net ionic equations
 	- molecular
 	- total ionic

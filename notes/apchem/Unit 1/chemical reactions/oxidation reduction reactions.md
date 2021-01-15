@@ -1,0 +1,8 @@
+- reduction (redox)
+	- occurs when species(compounds) gain electrons
+	- for a reaction to be qualified as a redox reaction, an oxidation state change must have occurred. 
+- [[oxidation numbers (states)]]
+	- occurs when species(compounds) lose electrons
+- single replacement 
+	- all single replacement reaction are oxidation but not all oxidation reactions are single replacement. 
+- LEO says GER: "Lose Electrons Oxidized", "Gain Electrons Reduction"
