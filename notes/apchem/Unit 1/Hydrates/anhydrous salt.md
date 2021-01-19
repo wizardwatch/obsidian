@@ -1,0 +1,1 @@
+A salt that was in an aqueous solution where no water was left in the crystal matrix. 
