@@ -18,3 +18,4 @@ $$
 1. rewrite the first two columns at the end of the matrix
 2. multiply and add the products of diagonals going up and down (separately)
 3. subtract the products in the same order as a 2x2 matrix ('down up')
+https://www.youtube.com/watch?v=ROFcVgehEYA

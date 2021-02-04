@@ -1,0 +1,1 @@
+The more electronegative an element the more it wants to take an electron, the less the more it want to give up an electron.

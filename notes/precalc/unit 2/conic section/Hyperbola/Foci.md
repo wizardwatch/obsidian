@@ -1,0 +1,1 @@
+The set of all points such that difference of the distances from the foci to that point are equal

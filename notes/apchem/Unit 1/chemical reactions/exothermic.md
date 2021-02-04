@@ -1,0 +1,1 @@
+The sign of the energy is negative

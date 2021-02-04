@@ -1,0 +1,1 @@
+Find the last electron shell ie spdf the maximum number of unpaired electron is half of the maximum number of electrons in the shell. Each electron after the halfway point decreases the unpaired electrons

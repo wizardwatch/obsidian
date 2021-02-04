@@ -1,0 +1,1 @@
+calorimeter is submerged in a sealed water container.

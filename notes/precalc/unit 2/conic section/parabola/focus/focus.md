@@ -1,0 +1,1 @@
+A point inside the graph. equal in distance from the vertex as the [[directix]]

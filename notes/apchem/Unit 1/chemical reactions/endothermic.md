@@ -1,0 +1,1 @@
+the sign of the chemical reaction is positive. 

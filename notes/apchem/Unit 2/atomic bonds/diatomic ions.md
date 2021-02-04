@@ -1,0 +1,1 @@
+two of the same atom in a bond by themselves. They have identical [[electronegativity]]. 

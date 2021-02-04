@@ -1,0 +1,1 @@
+ionic compounds steal electrons. [[electronegativity]] tends to be greater than 2.5

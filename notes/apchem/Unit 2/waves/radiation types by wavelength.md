@@ -1,0 +1,1 @@
+![Infrared radiation | Sensor division knowledge](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.infratec.eu%2Fen%2Fsensor-division%2Fservice%2Fsensor-division-glossary-infratec-spectral-ranges-1920x750px.jpg&f=1&nofb=1)

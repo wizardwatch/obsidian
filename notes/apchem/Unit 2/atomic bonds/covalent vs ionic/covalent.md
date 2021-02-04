@@ -1,0 +1,1 @@
+covalent bonds/compounds share electrons. [[electronegativity]] tends to be lower than 2.5
