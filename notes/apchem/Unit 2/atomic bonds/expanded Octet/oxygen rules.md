@@ -1,0 +1,1 @@
+If the central atom has an expanded octet and is bonded to oxygen you must see an increasing bond order to make a better lewis structure.

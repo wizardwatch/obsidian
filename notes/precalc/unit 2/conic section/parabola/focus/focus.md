@@ -1,1 +1,1 @@
-A point inside the graph. equal in distance from the vertex as the [[directix]]
+A point inside the graph. It is [[p]] units from the vertex and equal in distance from the vertex as the [[directix]]. The focus is 2[[p]] units away from the graph in the direction not the vertex. Ie if the vertex is x units away from p, the vertex is 2p worth of y units away from the graph on either side. 

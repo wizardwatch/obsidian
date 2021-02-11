@@ -1,1 +1,1 @@
-A point equal in distance from the vertex as the [[focus]]. Written using y = directix if the parabola is vertical or x = directix if the parabola is horizontal
+A point equal in distance from the vertex as the [[focus]]. The directix is [[p]] away the vertex. Written using y = directix if the parabola is vertical or x = directix if the parabola is horizontal

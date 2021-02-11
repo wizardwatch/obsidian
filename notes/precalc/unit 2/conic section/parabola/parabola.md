@@ -1,0 +1,1 @@
+The [[focus]] is the point at the same distance from the [[vertex]] and any point parabola as the [[directix]] to that same points.

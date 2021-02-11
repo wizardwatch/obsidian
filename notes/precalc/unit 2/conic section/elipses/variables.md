@@ -6,4 +6,4 @@ a is the longer distance between the center and one of the vertices
 
 b is the shorter distance between the center and one of the vertices
 
-c is the [[obsidian/notes/precalc/unit 2/conic section/parabola/elipses/foci]]
+c is the [[obsidian/notes/precalc/unit 2/conic section/elipses/foci]]
