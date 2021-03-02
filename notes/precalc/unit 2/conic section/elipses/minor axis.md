@@ -1,0 +1,1 @@
+The shorter of the two axis. This axis is equivalent to [[b]]

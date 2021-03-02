@@ -1,0 +1,1 @@
+ the shorter distance between the center and one of the vertices. You can find the value of b by finding the square root of the smaller denominator in the ellipse equation.

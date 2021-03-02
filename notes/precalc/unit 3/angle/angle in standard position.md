@@ -1,0 +1,1 @@
+when the vertex is at the origin and the initial side lies on the positive side of the x-axis. 

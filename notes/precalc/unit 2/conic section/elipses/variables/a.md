@@ -1,0 +1,1 @@
+The longer distance between the center and one of the vertices. You can find the value of a by finding the square root of the larger denominator in the ellipse equation.

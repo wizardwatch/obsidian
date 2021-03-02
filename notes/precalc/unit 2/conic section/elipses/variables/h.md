@@ -1,0 +1,1 @@
+horizontal displacement, find the the center x coordinate

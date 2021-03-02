@@ -1,0 +1,1 @@
+The 2nd and resulting ray once the angle is rotated around the origin. The initial and terminal sides form the angle.

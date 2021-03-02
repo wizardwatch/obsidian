@@ -1,0 +1,1 @@
+Find the [[focus length]]. Add and subtract the focus length from the center along the [[major axis]].

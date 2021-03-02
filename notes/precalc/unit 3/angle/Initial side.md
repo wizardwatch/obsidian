@@ -1,0 +1,1 @@
+The 1st ray of the angle that lies on the x-axis. It is where the angle is measured from.
